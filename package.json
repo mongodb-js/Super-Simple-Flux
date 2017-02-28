@@ -27,7 +27,7 @@
   "license": "ISC",
   "dependencies": {},
   "peerDependencies": {
-    "reflux": ">=0.2.5 <=0.4.x"
+    "reflux": ">=6.4.1"
   },
   "homepage": "https://github.com/mongodb-js/reflux-state-mixin",
   "readmeFilename": "README.md",
